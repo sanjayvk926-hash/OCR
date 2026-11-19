@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*service-account*.json
+application_default_credentials.json
+
+# Generated OCR data
+ocr_data/
+full_ocr_output/
+preprocessed/
+ocr_test_output/
+
+# Generated PDFs and original private documents
+*.pdf
+
+# IDE
+.vscode/
