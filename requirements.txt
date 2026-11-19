@@ -1,0 +1,7 @@
+google-cloud-vision
+PyMuPDF
+opencv-python
+Pillow
+numpy
+fonttools
+reportlab
